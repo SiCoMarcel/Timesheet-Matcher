@@ -29,3 +29,8 @@ venv.bak/
 
 # Uploads
 backend/uploads/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
